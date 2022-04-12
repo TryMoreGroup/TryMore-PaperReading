@@ -1,6 +1,12 @@
-# TryMore Paper Reading List
+# 揣摩研习社论文阅读列表
 
-## Dialogue Generation
+> 揣摩研习社关注自然语言和信息检索前沿技术，解读热门科技论文，分享实用科研工具，挖掘人工智能冰山之下的学术和应用价值！
+
+<div align=center>
+    <img src="fig/logo.jpg" width = "30%" />
+</div>
+
+## 对话生成
 - (ACL 2021) BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data. [[Video]](https://www.bilibili.com/video/BV15S4y1k7a5/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483687&idx=1&sn=d989550e1c552ada2b9e56e75556c7c2&chksm=9bcf64abacb8edbde9d9d141de38c129c7a137c580bc985a1919907f949db9c4214182feb0e9&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2021) Dialogue Response Selection with Hierarchical Curriculum Learning. [[Video]](https://www.bilibili.com/video/BV1eP4y1c7DE/)[[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483736&idx=1&sn=1242203fcbae08d8681098571365a529&chksm=9bcf64d4acb8edc2ebce0bcace9f8b9562d9ce4f4f6fb09c14113a3ead9a3e142e84711d5f01&token=1540349124&lang=zh_CN#rd)
@@ -11,7 +17,7 @@
 
 - (ACL 2022) PLANET: Dynamic Content Planning in Autoregressive Transformers for Long-form Text Generation [[Video]](https://www.bilibili.com/video/BV1i94y1o74W) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484835&idx=1&sn=4ff6436e9ec2b5bbd3fd1d0ebf729ef1&chksm=9bcf602facb8e9396010a15fbab85aa42b20507301b84d8d2de7533bbbd095ace839a604271e&token=1540349124&lang=zh_CN#rd)
 
-## Imformation Retrieval
+## 信息检索
 
 - (EMNLP 2021) Simple Entity-Centric Questions Challenge Dense Retrievers [[Video]](https://www.bilibili.com/video/BV1Q34y1r7Au/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483716&idx=1&sn=a75372366ba684bd1ab832e1e3af19be&chksm=9bcf64c8acb8eddeeec4687df591f1f0a69edc7e62d500f3833377f3049fef42cf6f4b62b12c&token=1540349124&lang=zh_CN#rd)
 
@@ -36,14 +42,14 @@ Negatives [[Video]](https://www.bilibili.com/video/BV1Fm4y1d7jF/) [[PPT]](https:
 
 - (EMNLP 2021) Adaptive Information Seeking for Open-Domain Question Answering [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484650&idx=1&sn=0d879d65a0ee2889ef2af6b735031226&chksm=9bcf6166acb8e8709fc75eb48f90dd160a168307cb1fbbd9d13c8a35f430d1ddee0286f12483&token=1540349124&lang=zh_CN#rd)
 
-## Causal Inference
+## 因果推断
 
 - (CVPR 2021) Counterfactual VQA: A Cause-Effect Look at Language Bias [[Video]](https://www.bilibili.com/video/BV17b4y1x7YV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483849&idx=1&sn=5693f33b55faa8880a330040205e8c17&chksm=9bcf6445acb8ed5302cb34fc02622dd0c89bd9e115e787b08e48f6c19789462bb5da127817a4&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2022) Can Prompt Probe Pretrained Language Models? Understanding the
 Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u44y1V766/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485097&idx=1&sn=8d7e8f26c19a9eb98a963429def61b83&chksm=9bcf6325acb8ea3362d3885e37fba670b2d5bf0acd5b0f9ea54d39f5c3482aa05c8dfc5c9e8a&token=1540349124&lang=zh_CN#rd)
 
-## Text Generation
+## 文本生成
 
 - (ICLR 2021) CoCon: A Self-Supervised Approach for Controlled Text Generation [[Video]](https://www.bilibili.com/video/BV1Yq4y147mg) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483930&idx=1&sn=7440fd3e3b17eb07b0bd13e7457b2097&chksm=9bcf6796acb8ee8057d90489c3b8358d48d952006325bbe72c777fe5e2dfe87882ec572873a6&token=1540349124&lang=zh_CN#rd)
 
@@ -55,14 +61,14 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 
 - (ACL 2022) A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation [[Video]](https://www.bilibili.com/video/BV1ku411e7L6) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485141&idx=1&sn=6f67f08a84582f83a88962e087120040&chksm=9bcf6359acb8ea4f193d19a41ed442b4e57c9cc6b515183e419beb7862abef6b01b70b146b42&token=1540349124&lang=zh_CN#rd)
 
-## Named Entity Recognition
+## 命名实体识别
 
 - (ACL 2020) FLAT: Chinese NER Using Flat-LAttice Transformer [[Video]](https://www.bilibili.com/video/BV1rr4y1B7pt/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484357&idx=1&sn=057e14f4c2236f3b87472e317eb86353&chksm=9bcf6649acb8ef5ff8a826def3b41496ed9273dca9d83121687c899f43dcbe7a4216f5a2c925&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2021) De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention [[Video]](https://www.bilibili.com/video/BV12a41147kT) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484793&idx=1&sn=9a8550d05d5bb737d9cf8951029a1778&chksm=9bcf60f5acb8e9e3534ca0d1db76f5061bc2680c8468e65764b061a2e41cce5021195bd9f717&token=1540349124&lang=zh_CN#rd)
 
 
-## Others
+## 其他
 
 - (NATURE) Highly accurate protein structure prediction with AlphaFold [[Video]](https://www.bilibili.com/video/BV1sr4y1i7Yf/) [[PPT Part 1]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484265&idx=1&sn=cb7740cb6ba1b585b7b7c7d13f2a55cd&chksm=9bcf66e5acb8eff35b7ec6a9a0a8fab80d070ce1dcca16c3de30851e105448f301c00b543c12&token=1540349124&lang=zh_CN#rd) [[PPT Part2]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484309&idx=1&sn=6605469abceb7a3e76a2c0f6a794436f&chksm=9bcf6619acb8ef0f9719826b6ec9ee6941a4e77a010f48b4e05f29496c4eaa794fbb207ed517&token=1540349124&lang=zh_CN#rd)
 
@@ -77,10 +83,9 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 
 ## 关于我们
 
-揣摩研习社关注自然语言和信息检索前沿技术，解读热门科技论文，分享实用科研工具，挖掘人工智能冰山之下的学术和应用价值！
+更多内容，欢迎关注我们的微信公众号和[B站账号](https://space.bilibili.com/2128513093)。
 
-
-欢迎关注！
+同时也欢迎分享自己或他人的顶会文章。投稿请填写[揣摩研习社Paper Reading收集表](https://wj.qq.com/s2/9854958/e8ed)。
 
 <div align=center>
     <img src="fig/qrcode.jpg" width = "30%" />

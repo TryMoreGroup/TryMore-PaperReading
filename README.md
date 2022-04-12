@@ -1,4 +1,4 @@
-# TryMore PaperRaading List
+# TryMore Paper Reading List
 
 ## Dialogue Generation
 - (ACL 2021) BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data. [[Video]](https://www.bilibili.com/video/BV15S4y1k7a5/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483687&idx=1&sn=d989550e1c552ada2b9e56e75556c7c2&chksm=9bcf64abacb8edbde9d9d141de38c129c7a137c580bc985a1919907f949db9c4214182feb0e9&token=1540349124&lang=zh_CN#rd)
@@ -75,11 +75,12 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 - (ACL 2021) Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases [[Video]](https://www.bilibili.com/video/BV1Mq4y1a7bY/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485063&idx=1&sn=8ac169ec8158a23200ff018f6a97e142&chksm=9bcf630bacb8ea1d1762848aaf32fbf3c95a30ce0471f61d07fc753c9bc5dc9c57f65cfb2586&token=1540349124&lang=zh_CN#rd)
 
 
-## About us
+## 关于我们
 
-We pay attention to the cutting-edge technologies of natural language and information retrieval, interpret popular scientific papers, share practical scientific research tools, and tap the academic and application value under the artificial intelligence iceberg!
+揣摩研习社关注自然语言和信息检索前沿技术，解读热门科技论文，分享实用科研工具，挖掘人工智能冰山之下的学术和应用价值！
 
-Welcome to join us!
+
+欢迎关注！
 
 <div align=center>
     <img src="fig/qrcode.jpg" width = "30%" />

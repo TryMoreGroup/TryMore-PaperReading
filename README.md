@@ -45,5 +45,5 @@ We pay attention to the cutting-edge technologies of natural language and inform
 Welcome to join us!
 
 <div align=center>
-    <img src="fig/qrcode.jpg" width = "50%" />
+    <img src="fig/qrcode.jpg" width = "30%" />
 </div>

@@ -36,7 +36,7 @@ Negatives [[Video]](https://www.bilibili.com/video/BV1Fm4y1d7jF/) [[PPT]](https:
 ## Named Entity Recognition
 
 - (ACL 2020) FLAT: Chinese NER Using Flat-LAttice Transformer [[Video]](https://www.bilibili.com/video/BV1rr4y1B7pt/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484357&idx=1&sn=057e14f4c2236f3b87472e317eb86353&chksm=9bcf6649acb8ef5ff8a826def3b41496ed9273dca9d83121687c899f43dcbe7a4216f5a2c925&token=1540349124&lang=zh_CN#rd)
- 
+
 
 ## About us
 

@@ -9,6 +9,7 @@
 
 - (ACL 2021) Learning from Perturbations: Diverse and Informative Dialogue Generation with Inverse Adversarial Training [[Video]](https://www.bilibili.com/video/BV1HS4y1u7ip/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484420&idx=1&sn=96445e227d9091918da1a61cc3a6bf2c&chksm=9bcf6188acb8e89edd1eb103cfaf71865ffe63bd9a3e6e48a5c3f0697a235c1a5ab755236d7f&token=1540349124&lang=zh_CN#rd)
 
+- (ACL 2022) PLANET: Dynamic Content Planning in Autoregressive Transformers for Long-form Text Generation [[Video]](https://www.bilibili.com/video/BV1i94y1o74W) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484835&idx=1&sn=4ff6436e9ec2b5bbd3fd1d0ebf729ef1&chksm=9bcf602facb8e9396010a15fbab85aa42b20507301b84d8d2de7533bbbd095ace839a604271e&token=1540349124&lang=zh_CN#rd)
 
 ## Imformation Retrieval
 
@@ -33,9 +34,14 @@ Negatives [[Video]](https://www.bilibili.com/video/BV1Fm4y1d7jF/) [[PPT]](https:
 
 - (ICLR 2021) Adversarial Retriever-Ranker for Dense Text Retrieval [[Video]](https://www.bilibili.com/video/BV1L94y1f7cM/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484490&idx=1&sn=ee9217c71fcd679b4ccbba0c9e7db237&chksm=9bcf61c6acb8e8d001169e403b9e146082414781ae3a6cc930aea3b87af20d94d565d78d43b3&token=1540349124&lang=zh_CN#rd)
 
+- (EMNLP 2021) Adaptive Information Seeking for Open-Domain Question Answering [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484650&idx=1&sn=0d879d65a0ee2889ef2af6b735031226&chksm=9bcf6166acb8e8709fc75eb48f90dd160a168307cb1fbbd9d13c8a35f430d1ddee0286f12483&token=1540349124&lang=zh_CN#rd)
+
 ## Causal Inference
 
 - (CVPR 2021) Counterfactual VQA: A Cause-Effect Look at Language Bias [[Video]](https://www.bilibili.com/video/BV17b4y1x7YV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483849&idx=1&sn=5693f33b55faa8880a330040205e8c17&chksm=9bcf6445acb8ed5302cb34fc02622dd0c89bd9e115e787b08e48f6c19789462bb5da127817a4&token=1540349124&lang=zh_CN#rd)
+
+- (ACL 2022) Can Prompt Probe Pretrained Language Models? Understanding the
+Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u44y1V766/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485097&idx=1&sn=8d7e8f26c19a9eb98a963429def61b83&chksm=9bcf6325acb8ea3362d3885e37fba670b2d5bf0acd5b0f9ea54d39f5c3482aa05c8dfc5c9e8a&token=1540349124&lang=zh_CN#rd)
 
 ## Text Generation
 
@@ -47,15 +53,27 @@ Negatives [[Video]](https://www.bilibili.com/video/BV1Fm4y1d7jF/) [[PPT]](https:
 
 - (AAAI 2021) Sketch and Customize: A Counterfactual Story Generator [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484213&idx=1&sn=be9fafaf799c659a1a2e7f8a000fb3f2&chksm=9bcf66b9acb8efafed3a49defc87fb7c834ab548708afdefccbae2245a36ac501909c2815224&token=1540349124&lang=zh_CN#rd)
 
+- (ACL 2022) A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation [[Video]](https://www.bilibili.com/video/BV1ku411e7L6) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485141&idx=1&sn=6f67f08a84582f83a88962e087120040&chksm=9bcf6359acb8ea4f193d19a41ed442b4e57c9cc6b515183e419beb7862abef6b01b70b146b42&token=1540349124&lang=zh_CN#rd)
+
 ## Named Entity Recognition
 
 - (ACL 2020) FLAT: Chinese NER Using Flat-LAttice Transformer [[Video]](https://www.bilibili.com/video/BV1rr4y1B7pt/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484357&idx=1&sn=057e14f4c2236f3b87472e317eb86353&chksm=9bcf6649acb8ef5ff8a826def3b41496ed9273dca9d83121687c899f43dcbe7a4216f5a2c925&token=1540349124&lang=zh_CN#rd)
+
+- (ACL 2021) De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention [[Video]](https://www.bilibili.com/video/BV12a41147kT) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484793&idx=1&sn=9a8550d05d5bb737d9cf8951029a1778&chksm=9bcf60f5acb8e9e3534ca0d1db76f5061bc2680c8468e65764b061a2e41cce5021195bd9f717&token=1540349124&lang=zh_CN#rd)
+
 
 ## Others
 
 - (NATURE) Highly accurate protein structure prediction with AlphaFold [[Video]](https://www.bilibili.com/video/BV1sr4y1i7Yf/) [[PPT Part 1]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484265&idx=1&sn=cb7740cb6ba1b585b7b7c7d13f2a55cd&chksm=9bcf66e5acb8eff35b7ec6a9a0a8fab80d070ce1dcca16c3de30851e105448f301c00b543c12&token=1540349124&lang=zh_CN#rd) [[PPT Part2]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484309&idx=1&sn=6605469abceb7a3e76a2c0f6a794436f&chksm=9bcf6619acb8ef0f9719826b6ec9ee6941a4e77a010f48b4e05f29496c4eaa794fbb207ed517&token=1540349124&lang=zh_CN#rd)
 
+- (DeepMind) Improving language models by retrieving from trillions of tokens [[Video]](https://www.bilibili.com/video/BV1si4y1Q7Ej) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484710&idx=1&sn=f9db25de7ac41aa9fedae8f81f3858b8&chksm=9bcf60aaacb8e9bc707243b3c7865e28845a205cbbde600095f4681ebb4470ddb35676d0becd&token=1540349124&lang=zh_CN#rd)
+
 - (NeurIPS 2021) Uncertainty calibration for ensemble-based debiasing methods [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484047&idx=1&sn=319a4fc222ae5d91852150f69636c239&chksm=9bcf6703acb8ee153b4510fd2926245291fc068c9e527bb93c94504fed63fa7086dc22855658&token=1540349124&lang=zh_CN#rd)
+
+- (ICLR 2022) Towards a Unified View of Parameter-Efficient Transfer Learning. [[Video]](https://www.bilibili.com/video/BV1K5411D7iX) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484987&idx=1&sn=c3d4748197ef84106684ae2fa4222398&chksm=9bcf63b7acb8eaa118a78ab7d6483077663fd04050e44f6f630f545e4aadecb279847c867af4&token=1540349124&lang=zh_CN#rd)
+
+- (ACL 2021) Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases [[Video]](https://www.bilibili.com/video/BV1Mq4y1a7bY/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485063&idx=1&sn=8ac169ec8158a23200ff018f6a97e142&chksm=9bcf630bacb8ea1d1762848aaf32fbf3c95a30ce0471f61d07fc753c9bc5dc9c57f65cfb2586&token=1540349124&lang=zh_CN#rd)
+
 
 ## About us
 

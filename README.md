@@ -40,7 +40,7 @@ Negatives [[Video]](https://www.bilibili.com/video/BV1Fm4y1d7jF/) [[PPT]](https:
 
 - (ICLR 2021) Adversarial Retriever-Ranker for Dense Text Retrieval [[Video]](https://www.bilibili.com/video/BV1L94y1f7cM/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484490&idx=1&sn=ee9217c71fcd679b4ccbba0c9e7db237&chksm=9bcf61c6acb8e8d001169e403b9e146082414781ae3a6cc930aea3b87af20d94d565d78d43b3&token=1540349124&lang=zh_CN#rd)
 
-- (EMNLP 2021) Adaptive Information Seeking for Open-Domain Question Answering [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484650&idx=1&sn=0d879d65a0ee2889ef2af6b735031226&chksm=9bcf6166acb8e8709fc75eb48f90dd160a168307cb1fbbd9d13c8a35f430d1ddee0286f12483&token=1540349124&lang=zh_CN#rd)
+- (EMNLP 2021) Adaptive Information Seeking for Open-Domain Question Answering [[Video]](https://www.bilibili.com/video/BV15Z4y1z76F) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484650&idx=1&sn=0d879d65a0ee2889ef2af6b735031226&chksm=9bcf6166acb8e8709fc75eb48f90dd160a168307cb1fbbd9d13c8a35f430d1ddee0286f12483&token=1540349124&lang=zh_CN#rd)
 
 ## 因果推断
 
@@ -57,9 +57,11 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 
 - (NeurIPS 2021) Controlled Text Generation as Continuous Optimization with Multiple Constraints [[Video]](https://www.bilibili.com/video/BV1iq4y1i7uX/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484118&idx=1&sn=ed894c52c8d545935de9357d061ae04e&chksm=9bcf675aacb8ee4cfa02dd80df51a501b26ba33f471a7216c196b13cdd773c4e6e994d39a98c&token=1540349124&lang=zh_CN#rd)
 
-- (AAAI 2021) Sketch and Customize: A Counterfactual Story Generator [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484213&idx=1&sn=be9fafaf799c659a1a2e7f8a000fb3f2&chksm=9bcf66b9acb8efafed3a49defc87fb7c834ab548708afdefccbae2245a36ac501909c2815224&token=1540349124&lang=zh_CN#rd)
+- (AAAI 2021) Sketch and Customize: A Counterfactual Story Generator [[Video]](https://www.bilibili.com/video/BV1BS4y1u7Qi) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484213&idx=1&sn=be9fafaf799c659a1a2e7f8a000fb3f2&chksm=9bcf66b9acb8efafed3a49defc87fb7c834ab548708afdefccbae2245a36ac501909c2815224&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2022) A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation [[Video]](https://www.bilibili.com/video/BV1ku411e7L6) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485141&idx=1&sn=6f67f08a84582f83a88962e087120040&chksm=9bcf6359acb8ea4f193d19a41ed442b4e57c9cc6b515183e419beb7862abef6b01b70b146b42&token=1540349124&lang=zh_CN#rd)
+
+- (EMNLP 2021) Transductive Learning for Unsupervised Text Style Transfer [[Video]](https://www.bilibili.com/video/BV1k3411n7Rv) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485018&idx=1&sn=98e2d8a0c70a7dde1abb10aef85379b3&chksm=9bcf63d6acb8eac011d77c5cc69e71580bc12ed130fbfa57c6ea1590a51026a669be0ce164a2&token=1540349124&lang=zh_CN#rd)
 
 ## 命名实体识别
 
@@ -74,11 +76,13 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 
 - (DeepMind) Improving language models by retrieving from trillions of tokens [[Video]](https://www.bilibili.com/video/BV1si4y1Q7Ej) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484710&idx=1&sn=f9db25de7ac41aa9fedae8f81f3858b8&chksm=9bcf60aaacb8e9bc707243b3c7865e28845a205cbbde600095f4681ebb4470ddb35676d0becd&token=1540349124&lang=zh_CN#rd)
 
-- (NeurIPS 2021) Uncertainty calibration for ensemble-based debiasing methods [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484047&idx=1&sn=319a4fc222ae5d91852150f69636c239&chksm=9bcf6703acb8ee153b4510fd2926245291fc068c9e527bb93c94504fed63fa7086dc22855658&token=1540349124&lang=zh_CN#rd)
+- (NeurIPS 2021) Uncertainty calibration for ensemble-based debiasing methods [[Video]](https://www.bilibili.com/video/BV1nq4y1i7w9) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484047&idx=1&sn=319a4fc222ae5d91852150f69636c239&chksm=9bcf6703acb8ee153b4510fd2926245291fc068c9e527bb93c94504fed63fa7086dc22855658&token=1540349124&lang=zh_CN#rd)
 
 - (ICLR 2022) Towards a Unified View of Parameter-Efficient Transfer Learning. [[Video]](https://www.bilibili.com/video/BV1K5411D7iX) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484987&idx=1&sn=c3d4748197ef84106684ae2fa4222398&chksm=9bcf63b7acb8eaa118a78ab7d6483077663fd04050e44f6f630f545e4aadecb279847c867af4&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2021) Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases [[Video]](https://www.bilibili.com/video/BV1Mq4y1a7bY/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485063&idx=1&sn=8ac169ec8158a23200ff018f6a97e142&chksm=9bcf630bacb8ea1d1762848aaf32fbf3c95a30ce0471f61d07fc753c9bc5dc9c57f65cfb2586&token=1540349124&lang=zh_CN#rd)
+
+- (EMNLP 2020) Beyond Language: Learning Commonsense from Images for Reasoning [[Video]](https://www.bilibili.com/video/BV1Qu411C7fc) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485176&idx=1&sn=8aa27e16e76224aafe80546a26d03af4&chksm=9bcf6374acb8ea62d179479c18032a6f53a27e2db583409292f30d6ea7de860d2a0109420f26&token=1540349124&lang=zh_CN#rd)
 
 
 ## 关于我们

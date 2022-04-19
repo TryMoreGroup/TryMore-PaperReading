@@ -17,6 +17,10 @@
 
 - (ACL 2022) PLANET: Dynamic Content Planning in Autoregressive Transformers for Long-form Text Generation [[Video]](https://www.bilibili.com/video/BV1i94y1o74W) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484835&idx=1&sn=4ff6436e9ec2b5bbd3fd1d0ebf729ef1&chksm=9bcf602facb8e9396010a15fbab85aa42b20507301b84d8d2de7533bbbd095ace839a604271e&token=1540349124&lang=zh_CN#rd)
 
+- (EMNLP 2020) Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness [[Video]](https://www.bilibili.com/video/BV1pZ4y1m7ro/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485211&idx=1&sn=54953bdefbe30cacbd276871bfc49b08&chksm=9bcf6297acb8eb81ae9770e2a3a91c1d5f5ec3644d2a56b76c536e0afc5f7f40caa2a999aec8&token=904163038&lang=zh_CN#rd)
+
+- (EMNLP 2020) Regularizing Dialogue Generation by Imitating Implicit Scenarios [[Video]](https://www.bilibili.com/video/BV1Q44y137xy/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485255&idx=1&sn=3418ef905919832b1a99becb0808d36d&chksm=9bcf62cbacb8ebdda6767e28df03cd5a7d7b9fafc22ed37763d1bb3415c3b41c9f11a5ce5213&token=904163038&lang=zh_CN#rd)
+
 ## 信息检索
 
 - (EMNLP 2021) Simple Entity-Centric Questions Challenge Dense Retrievers [[Video]](https://www.bilibili.com/video/BV1Q34y1r7Au/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483716&idx=1&sn=a75372366ba684bd1ab832e1e3af19be&chksm=9bcf64c8acb8eddeeec4687df591f1f0a69edc7e62d500f3833377f3049fef42cf6f4b62b12c&token=1540349124&lang=zh_CN#rd)
@@ -83,6 +87,10 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 - (ACL 2021) Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases [[Video]](https://www.bilibili.com/video/BV1Mq4y1a7bY/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485063&idx=1&sn=8ac169ec8158a23200ff018f6a97e142&chksm=9bcf630bacb8ea1d1762848aaf32fbf3c95a30ce0471f61d07fc753c9bc5dc9c57f65cfb2586&token=1540349124&lang=zh_CN#rd)
 
 - (EMNLP 2020) Beyond Language: Learning Commonsense from Images for Reasoning [[Video]](https://www.bilibili.com/video/BV1Qu411C7fc) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485176&idx=1&sn=8aa27e16e76224aafe80546a26d03af4&chksm=9bcf6374acb8ea62d179479c18032a6f53a27e2db583409292f30d6ea7de860d2a0109420f26&token=1540349124&lang=zh_CN#rd)
+
+- (CIKM 2020) Mining Infrequent High-Quality Phrases from Domain-Specific Corpora [[Video]](https://www.bilibili.com/video/BV1tA4y197VD) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485342&idx=1&sn=642750c6ef7eb57c7c7dc24000349d2b&chksm=9bcf6212acb8eb04602b465317294d659d2c5b3e4ea4c4d93d0388f3270f041500efc1adafb6&token=904163038&lang=zh_CN#rd)
+
+- (KDD 2021) UCPhrase: Unsupervised Context-aware Quality Phrase Tagging [[Video]](https://www.bilibili.com/video/BV1v94y1d7VR) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485338&idx=1&sn=c3bf74984a64308409bec95bfb439deb&chksm=9bcf6216acb8eb00c646987fcedd269e9e9488456434265e24b20506a0469fc3ddfd2ef03f9c&token=904163038&lang=zh_CN#rd)
 
 
 ## 关于我们

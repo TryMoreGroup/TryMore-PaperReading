@@ -3,7 +3,7 @@
 > 揣摩研习社关注自然语言和信息检索前沿技术，解读热门科技论文，分享实用科研工具，挖掘人工智能冰山之下的学术和应用价值！
 
 <div align=center>
-    <img src="fig/logo.jpg" width = "30%" />
+    <img src="fig/logo_new.png" width = "30%" />
 </div>
 
 ## 对话生成

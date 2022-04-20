@@ -50,8 +50,7 @@ Negatives [[Video]](https://www.bilibili.com/video/BV1Fm4y1d7jF/) [[PPT]](https:
 
 - (CVPR 2021) Counterfactual VQA: A Cause-Effect Look at Language Bias [[Video]](https://www.bilibili.com/video/BV17b4y1x7YV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483849&idx=1&sn=5693f33b55faa8880a330040205e8c17&chksm=9bcf6445acb8ed5302cb34fc02622dd0c89bd9e115e787b08e48f6c19789462bb5da127817a4&token=1540349124&lang=zh_CN#rd)
 
-- (ACL 2022) Can Prompt Probe Pretrained Language Models? Understanding the
-Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u44y1V766/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485097&idx=1&sn=8d7e8f26c19a9eb98a963429def61b83&chksm=9bcf6325acb8ea3362d3885e37fba670b2d5bf0acd5b0f9ea54d39f5c3482aa05c8dfc5c9e8a&token=1540349124&lang=zh_CN#rd)
+- (ACL 2022) Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u44y1V766/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485097&idx=1&sn=8d7e8f26c19a9eb98a963429def61b83&chksm=9bcf6325acb8ea3362d3885e37fba670b2d5bf0acd5b0f9ea54d39f5c3482aa05c8dfc5c9e8a&token=1540349124&lang=zh_CN#rd)
 
 ## 文本生成
 
@@ -92,6 +91,7 @@ Invisible Risks from a Causal View [[Video]](https://www.bilibili.com/video/BV1u
 
 - (KDD 2021) UCPhrase: Unsupervised Context-aware Quality Phrase Tagging [[Video]](https://www.bilibili.com/video/BV1v94y1d7VR) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485338&idx=1&sn=c3bf74984a64308409bec95bfb439deb&chksm=9bcf6216acb8eb00c646987fcedd269e9e9488456434265e24b20506a0469fc3ddfd2ef03f9c&token=904163038&lang=zh_CN#rd)
 
+- (CVPR 2021) Transformation Driven Visual Reasoning [[Video]](https://www.bilibili.com/video/BV1Xi4y1U7yk) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485377&idx=1&sn=93e9b73476a1841f0e3db853b0adde05&chksm=9bcf624dacb8eb5b164b259f2dd14a9cae1c49ba7213809624235cb2aadf6016c71b2c363c83&token=904163038&lang=zh_CN#rd)
 
 ## 关于我们
 

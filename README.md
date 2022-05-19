@@ -124,6 +124,12 @@
 
 - (KDD 2021) UCPhrase: Unsupervised Context-aware Quality Phrase Tagging [[Video]](https://www.bilibili.com/video/BV1v94y1d7VR) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485338&idx=1&sn=c3bf74984a64308409bec95bfb439deb&chksm=9bcf6216acb8eb00c646987fcedd269e9e9488456434265e24b20506a0469fc3ddfd2ef03f9c&token=904163038&lang=zh_CN#rd)
 
+- (ACL 2022) Debiased Contrastive Learning of Unsupervised Sentence Representations  [[Video]](https://www.bilibili.com/video/BV1uZ4y187yn) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485859&idx=1&sn=16dc9c6f6957b01903743d9555ad1256&chksm=9bcf6c2facb8e539ca1a8ad29b00f0add08cfb4815967e209c3a1f879657ddce8f8c868a789b&token=1203210899&lang=zh_CN#rd)
+
+- (ACL 2022) Virtual Augmentation Supported Contrastive Learning of Sentence Representations [[Video]](https://www.bilibili.com/video/BV12U4y1m7Q5) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485861&idx=1&sn=bbd9e5c28af290670469a7780ef2dd68&chksm=9bcf6c29acb8e53fc04719517d67234fbf657f61dc2b4bac125c9b970d98b8b8cf78a7c4573d&token=1203210899&lang=zh_CN#rd)
+
+- (EMNLP 2021) Do Transformer Modifications Transfer Across Implementations and Applications? [[Video Part 1]](https://www.bilibili.com/video/BV1RU4y127dk) [[Video Part 2]](https://www.bilibili.com/video/BV1WY4y1474E) [[PPT Part 1]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485791&idx=1&sn=e386bb9e2af444d68f852cb2cf332aa2&chksm=9bcf6cd3acb8e5c5f4c216830d4a66c11601f7624112ee052d49ed18cdf08fa6f044a937ff8a&token=1203210899&lang=zh_CN#rd) [[PPT Part 2]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485813&idx=1&sn=a2471e560e33bcd4c455bb4663824de3&chksm=9bcf6cf9acb8e5ef56a17bcacdd3e8347029cb3449ea7cd433bea452a77cb570868b18071f00&token=1203210899&lang=zh_CN#rd)
+
 
 ## 关于我们
 

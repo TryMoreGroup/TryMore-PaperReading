@@ -9,7 +9,7 @@
 </div>
 
 # 快速导览
-[对话生成](#对话生成) [文本检索](#文本检索) [多模态检索](#多模态检索) [因果推断](#因果推断) [对话生成](#对话生成) [命名实体识别](#命名实体识别) [其他](#其他)
+[对话生成](#对话生成) [文本检索](#文本检索) [多模态检索](#多模态检索) [因果推断](#因果推断) [对话生成](#对话生成) [信息抽取](#信息抽取) [其他](#其他)
 
 ## 对话生成
 - (ACL 2021) BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data. [[Video]](https://www.bilibili.com/video/BV15S4y1k7a5/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483687&idx=1&sn=d989550e1c552ada2b9e56e75556c7c2&chksm=9bcf64abacb8edbde9d9d141de38c129c7a137c580bc985a1919907f949db9c4214182feb0e9&token=1540349124&lang=zh_CN#rd)
@@ -27,6 +27,10 @@
 - (EMNLP 2020) Regularizing Dialogue Generation by Imitating Implicit Scenarios [[Video]](https://www.bilibili.com/video/BV1Q44y137xy/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485255&idx=1&sn=3418ef905919832b1a99becb0808d36d&chksm=9bcf62cbacb8ebdda6767e28df03cd5a7d7b9fafc22ed37763d1bb3415c3b41c9f11a5ce5213&token=904163038&lang=zh_CN#rd)
 
 - (SIGIR 2021) Partner Matters! An Empirical Study on Fusing Personas for Personalized Response Selection in Retrieval-Based Chatbots [[Video]](https://www.bilibili.com/video/BV1kR4y1K7nU) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485589&idx=1&sn=51e0849ec4da47f3a65f5311de8ea94c&chksm=9bcf6d19acb8e40fa1c628d9fa03bdbd44160150e50b8149c0848698217084c4f0e4fecb5137&token=447217193&lang=zh_CN#rd)
+
+- (ACL 2022) Beyond Goldfish Memory: Long-Term Open-Domain Conversation [[Video]](https://www.bilibili.com/video/BV1nF411L7zx) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485933&idx=1&sn=72a0e019152075ac6f392860b70c394c&chksm=9bcf6c61acb8e57791c3f33df202bbc47f9b06c72c0a5e0a5868a415233ce7ead369082dc4e2&token=1589472580&lang=zh_CN#rd)
+
+- (ACL 2020) Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation [[Video]](https://www.bilibili.com/video/BV1bU4y117mE) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485967&idx=1&sn=ff768b546ee0bf4544fdbff0401cfe47&chksm=9bcf6f83acb8e695e748a5ef00655df7c6fadc8b32b27f9bcd9bd423ce2503871d929090783d&token=1589472580&lang=zh_CN#rd)
 
 ## 文本检索
 
@@ -53,6 +57,14 @@
 - (EMNLP 2021) Learning with Instance Bundles for Reading Comprehension [[Video]](https://www.bilibili.com/video/BV1vS4y1A7Fn) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485440&idx=1&sn=9dfd3b147dde7db55006aa92ef4e4c79&chksm=9bcf6d8cacb8e49a0833972f8a2bbfd5dfcc3581d9dee83c7a9bf151903c2513d04ae2a96899&token=447217193&lang=zh_CN#rd)
 
 - (ACL 2022) Simulating Bandit Learning from User Feedback for Extractive Question Answering [[Video]](https://www.bilibili.com/video/BV1iA4y1Q7zH) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485404&idx=1&sn=bddf00f9c38094ba46cee6bd33127802&chksm=9bcf6250acb8eb46e083a7fbfb937ee8199acde84f288a87f99a7c61b2d0b887dece1a106a21&token=447217193&lang=zh_CN#rd)
+
+- (ACL 2022) Hey AI, Can You Solve Complex Tasks by Talking to Agents? [[Video]](https://www.bilibili.com/video/BV1tt4y1s7cj) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486036&idx=1&sn=417b985c9165109a51666ad3780f366b&chksm=9bcf6fd8acb8e6ce425f122b6124eaf53b018f38635312108c8241eed0ddba13aa70c4eb832d&token=1589472580&lang=zh_CN#rd)
+
+- (ACL 2022) Perceiving the World: Question-guided Reinforcement Learning for Text-based Games [[Video]](https://www.bilibili.com/video/BV13Y411u72Z) [[PPT]]()
+
+- (ACL 2021) Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction [[Video]](https://www.bilibili.com/video/BV1V54y1o7d9) [[PPT]]()
+
+- (ACL 2022) Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework [[Video]](https://www.bilibili.com/video/BV1Fr4y1x7kL) [[PPT]]()
 
 ## 多模态检索
 
@@ -85,11 +97,19 @@
 
 - (ACL 2022) Controllable Natural Language Generation with Contrastive Preﬁxes [[Video]](https://www.bilibili.com/video/BV1VF411u7jV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485668&amp;idx=1&amp;sn=8ce11ac9a6c37f965aec57427a1e253c&amp;chksm=9bcf6d68acb8e47efcd2b201e3bbb9ee041dded02be4bb0ca8f721d3c72fb43e4f2aef27dbf0&token=385689359&lang=zh_CN#rd)
 
-## 命名实体识别
+## 信息抽取
 
 - (ACL 2020) FLAT: Chinese NER Using Flat-LAttice Transformer [[Video]](https://www.bilibili.com/video/BV1rr4y1B7pt/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484357&idx=1&sn=057e14f4c2236f3b87472e317eb86353&chksm=9bcf6649acb8ef5ff8a826def3b41496ed9273dca9d83121687c899f43dcbe7a4216f5a2c925&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2021) De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention [[Video]](https://www.bilibili.com/video/BV12a41147kT) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484793&idx=1&sn=9a8550d05d5bb737d9cf8951029a1778&chksm=9bcf60f5acb8e9e3534ca0d1db76f5061bc2680c8468e65764b061a2e41cce5021195bd9f717&token=1540349124&lang=zh_CN#rd)
+
+- (CIKM 2020) Mining Infrequent High-Quality Phrases from Domain-Specific Corpora [[Video]](https://www.bilibili.com/video/BV1tA4y197VD) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485342&idx=1&sn=642750c6ef7eb57c7c7dc24000349d2b&chksm=9bcf6212acb8eb04602b465317294d659d2c5b3e4ea4c4d93d0388f3270f041500efc1adafb6&token=904163038&lang=zh_CN#rd)
+
+- (KDD 2021) UCPhrase: Unsupervised Context-aware Quality Phrase Tagging [[Video]](https://www.bilibili.com/video/BV1v94y1d7VR) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485338&idx=1&sn=c3bf74984a64308409bec95bfb439deb&chksm=9bcf6216acb8eb00c646987fcedd269e9e9488456434265e24b20506a0469fc3ddfd2ef03f9c&token=904163038&lang=zh_CN#rd)
+
+- (NAACL 2021) A Frustratingly Easy Approach for Entity and Relation Extraction [[Video]](https://www.bilibili.com/video/BV1M5411R7wB) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485993&idx=1&sn=5f4763359440c3f447ff2b401b9fb0df&chksm=9bcf6fa5acb8e6b3d85c32f706a18fd23b6a70506eedd37207f71c8fd1b83404c49db82fb9ff&token=1589472580&lang=zh_CN#rd)
+
+- (ACL 2022) Packed Levitated Marker for Entity and Relation Extraction [[Video]](https://www.bilibili.com/video/BV1Q3411A7pf) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486017&idx=1&sn=19457188c6b46ec2865017357383b22a&chksm=9bcf6fcdacb8e6dbd36fbb18f3e98b27056891b9bafd7c3c0f967e80fe3b4110865a80a71f5c&token=1589472580&lang=zh_CN#rd)
 
 ## 揣摩工作
 
@@ -119,10 +139,6 @@
 - (ICLR 2022) Towards a Unified View of Parameter-Efficient Transfer Learning. [[Video]](https://www.bilibili.com/video/BV1K5411D7iX) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484987&idx=1&sn=c3d4748197ef84106684ae2fa4222398&chksm=9bcf63b7acb8eaa118a78ab7d6483077663fd04050e44f6f630f545e4aadecb279847c867af4&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2021) Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases [[Video]](https://www.bilibili.com/video/BV1Mq4y1a7bY/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485063&idx=1&sn=8ac169ec8158a23200ff018f6a97e142&chksm=9bcf630bacb8ea1d1762848aaf32fbf3c95a30ce0471f61d07fc753c9bc5dc9c57f65cfb2586&token=1540349124&lang=zh_CN#rd)
-
-- (CIKM 2020) Mining Infrequent High-Quality Phrases from Domain-Specific Corpora [[Video]](https://www.bilibili.com/video/BV1tA4y197VD) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485342&idx=1&sn=642750c6ef7eb57c7c7dc24000349d2b&chksm=9bcf6212acb8eb04602b465317294d659d2c5b3e4ea4c4d93d0388f3270f041500efc1adafb6&token=904163038&lang=zh_CN#rd)
-
-- (KDD 2021) UCPhrase: Unsupervised Context-aware Quality Phrase Tagging [[Video]](https://www.bilibili.com/video/BV1v94y1d7VR) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485338&idx=1&sn=c3bf74984a64308409bec95bfb439deb&chksm=9bcf6216acb8eb00c646987fcedd269e9e9488456434265e24b20506a0469fc3ddfd2ef03f9c&token=904163038&lang=zh_CN#rd)
 
 - (ACL 2022) Debiased Contrastive Learning of Unsupervised Sentence Representations  [[Video]](https://www.bilibili.com/video/BV1uZ4y187yn) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485859&idx=1&sn=16dc9c6f6957b01903743d9555ad1256&chksm=9bcf6c2facb8e539ca1a8ad29b00f0add08cfb4815967e209c3a1f879657ddce8f8c868a789b&token=1203210899&lang=zh_CN#rd)
 

@@ -5,7 +5,7 @@
 > 我们每周会阅读分享最新的顶会文章。点击[揣摩工作](#揣摩工作)查看本社社员发表的顶会文章。
 
 <div align=center>
-    <img src="fig/logo_new.png" width = "30%" />
+    <img src="fig/logo_new.png" width = "30%" /><img src="fig/qrcode.jpg" width = "28.2%" />
 </div>
 
 # 快速导览
@@ -157,7 +157,3 @@
 更多内容，欢迎关注我们的微信公众号和[B站账号](https://space.bilibili.com/2128513093)。
 
 同时也欢迎分享自己或他人的顶会文章。投稿请填写[揣摩研习社Paper Reading收集表](https://wj.qq.com/s2/9854958/e8ed)。
-
-<div align=center>
-    <img src="fig/qrcode.jpg" width = "30%" />
-</div>

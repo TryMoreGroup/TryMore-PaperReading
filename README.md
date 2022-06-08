@@ -9,7 +9,7 @@
 </div>
 
 # 快速导览
-[对话生成](#对话生成) [文本检索](#文本检索) [多模态检索](#多模态检索) [因果推断](#因果推断) [文本生成](#文本生成) [信息抽取](#信息抽取) [其他](#其他)
+[【对话生成】](#对话生成) [【文本检索】](#文本检索) [【多模态检索】](#多模态检索) [【因果推断】](#因果推断) [【文本生成】](#文本生成) [【信息抽取】](#信息抽取) [【其他】](#其他)
 
 ## 对话生成
 - (ACL 2021) BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data. [[Video]](https://www.bilibili.com/video/BV15S4y1k7a5/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483687&idx=1&sn=d989550e1c552ada2b9e56e75556c7c2&chksm=9bcf64abacb8edbde9d9d141de38c129c7a137c580bc985a1919907f949db9c4214182feb0e9&token=1540349124&lang=zh_CN#rd)

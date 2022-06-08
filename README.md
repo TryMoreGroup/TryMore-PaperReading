@@ -9,7 +9,7 @@
 </div>
 
 # 快速导览
-[对话生成](#对话生成) [文本检索](#文本检索) [多模态检索](#多模态检索) [因果推断](#因果推断) [对话生成](#对话生成) [信息抽取](#信息抽取) [其他](#其他)
+[对话生成](#对话生成) [文本检索](#文本检索) [多模态检索](#多模态检索) [因果推断](#因果推断) [文本生成](#文本生成) [信息抽取](#信息抽取) [其他](#其他)
 
 ## 对话生成
 - (ACL 2021) BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data. [[Video]](https://www.bilibili.com/video/BV15S4y1k7a5/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483687&idx=1&sn=d989550e1c552ada2b9e56e75556c7c2&chksm=9bcf64abacb8edbde9d9d141de38c129c7a137c580bc985a1919907f949db9c4214182feb0e9&token=1540349124&lang=zh_CN#rd)
@@ -60,11 +60,11 @@
 
 - (ACL 2022) Hey AI, Can You Solve Complex Tasks by Talking to Agents? [[Video]](https://www.bilibili.com/video/BV1tt4y1s7cj) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486036&idx=1&sn=417b985c9165109a51666ad3780f366b&chksm=9bcf6fd8acb8e6ce425f122b6124eaf53b018f38635312108c8241eed0ddba13aa70c4eb832d&token=1589472580&lang=zh_CN#rd)
 
-- (ACL 2022) Perceiving the World: Question-guided Reinforcement Learning for Text-based Games [[Video]](https://www.bilibili.com/video/BV13Y411u72Z) [[PPT]]()
+- (ACL 2022) Perceiving the World: Question-guided Reinforcement Learning for Text-based Games [[Video]](https://www.bilibili.com/video/BV13Y411u72Z) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486074&idx=1&sn=db6fdc25590151e161f5eb0d62f75c2e&chksm=9bcf6ff6acb8e6e063662a7876f96a473e9b97e6a91ab004fca02fc62d99c30a203d60cda97f&token=396426454&lang=zh_CN#rd)
 
-- (ACL 2021) Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction [[Video]](https://www.bilibili.com/video/BV1V54y1o7d9) [[PPT]]()
+- (ACL 2021) Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction [[Video]](https://www.bilibili.com/video/BV1V54y1o7d9) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486113&idx=1&sn=2a7328d0eeaa93e132a79455349e50b2&chksm=9bcf6f2dacb8e63b5ef32bde58f7b5cb19a3f745a35254fb489679ba775093dcd6a3c2b6ba77&token=396426454&lang=zh_CN#rd)
 
-- (ACL 2022) Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework [[Video]](https://www.bilibili.com/video/BV1Fr4y1x7kL) [[PPT]]()
+- (ACL 2022) Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework [[Video]](https://www.bilibili.com/video/BV1Fr4y1x7kL) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486114&idx=1&sn=6c68691e078677e01458e6c3b09994e3&chksm=9bcf6f2eacb8e63806f74ac2d484f81b9139a9a141b09a4bab27f18c1ddedff192143f4ce985&token=396426454&lang=zh_CN#rd)
 
 ## 多模态检索
 
@@ -75,6 +75,8 @@
 - (CVPR 2022) Balanced Multimodal Learning via On-the-fly Gradient Modulation [[Video]](https://www.bilibili.com/video/BV17Y4y1h7FV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485741&amp;idx=1&amp;sn=1abde1521e2d3c2a9b5905a8c0de1a93&amp;chksm=9bcf6ca1acb8e5b73f14fde0374b4aebf984907ea3f24b91d820802fa49d643a5dfe4200d6d7&token=385689359&lang=zh_CN#rd)
 
 - (ACM MM 2021) CONQUER: Contextual Query-aware Ranking for Video Corpus Moment Retrieval [[Video]](https://www.bilibili.com/video/BV1vB4y117Fz) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485690&amp;idx=1&amp;sn=1dcafb93932d74624cfd2734a4806587&amp;chksm=9bcf6d76acb8e46030c53e699a021156df6b57c2a20275f2ce29ab180835dfd0401c492a45e6&token=385689359&lang=zh_CN#rd)
+
+- (ICML 2022) Characterizing and overcoming the greedy nature of learning in multi-modal deep neural networks [[Video]](https://www.bilibili.com/video/BV1oT411V7f3) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486223&idx=1&sn=3a3677957a18a1f48e7d9a7b9077130d&chksm=9bcf6e83acb8e795808a2180d80076fb5839c6050b5bb97bbe2a17c594f9a3f114d48ebaf8c2&token=396426454&lang=zh_CN#rd)
 
 ## 因果推断
 
@@ -90,12 +92,13 @@
 
 - (NeurIPS 2021) Controlled Text Generation as Continuous Optimization with Multiple Constraints [[Video]](https://www.bilibili.com/video/BV1iq4y1i7uX/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484118&idx=1&sn=ed894c52c8d545935de9357d061ae04e&chksm=9bcf675aacb8ee4cfa02dd80df51a501b26ba33f471a7216c196b13cdd773c4e6e994d39a98c&token=1540349124&lang=zh_CN#rd)
 
-
 - (ACL 2022) A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation [[Video]](https://www.bilibili.com/video/BV1ku411e7L6) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485141&idx=1&sn=6f67f08a84582f83a88962e087120040&chksm=9bcf6359acb8ea4f193d19a41ed442b4e57c9cc6b515183e419beb7862abef6b01b70b146b42&token=1540349124&lang=zh_CN#rd)
 
 - (ACL 2022) Mix and Match: Learning-free Controllable Text Generation using Energy Language Models [[Video]](https://www.bilibili.com/video/BV1ki4y1m7mN) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485641&amp;idx=1&amp;sn=8650e659516563b4bf35f70115fd1a06&amp;chksm=9bcf6d45acb8e45336256b55d25653dadd7927a15414d744617b91b3a5b0629a0eb07e5fcb61&token=385689359&lang=zh_CN#rd)
 
 - (ACL 2022) Controllable Natural Language Generation with Contrastive Preﬁxes [[Video]](https://www.bilibili.com/video/BV1VF411u7jV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485668&amp;idx=1&amp;sn=8ce11ac9a6c37f965aec57427a1e253c&amp;chksm=9bcf6d68acb8e47efcd2b201e3bbb9ee041dded02be4bb0ca8f721d3c72fb43e4f2aef27dbf0&token=385689359&lang=zh_CN#rd)
+
+- (Arxiv) Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation [[Video]](https://www.bilibili.com/video/BV1BL4y1K7yW) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486162&idx=1&sn=02fe64470fd1ba6bf040b0dc93859162&chksm=9bcf6f5eacb8e6481a6a2622760dd4d5c5670f71bc47f96d6504941d11f24cc24f5add32f387&token=396426454&lang=zh_CN#rd)
 
 ## 信息抽取
 
@@ -143,6 +146,8 @@
 - (ACL 2022) Debiased Contrastive Learning of Unsupervised Sentence Representations  [[Video]](https://www.bilibili.com/video/BV1uZ4y187yn) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485859&idx=1&sn=16dc9c6f6957b01903743d9555ad1256&chksm=9bcf6c2facb8e539ca1a8ad29b00f0add08cfb4815967e209c3a1f879657ddce8f8c868a789b&token=1203210899&lang=zh_CN#rd)
 
 - (ACL 2022) Virtual Augmentation Supported Contrastive Learning of Sentence Representations [[Video]](https://www.bilibili.com/video/BV12U4y1m7Q5) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485861&idx=1&sn=bbd9e5c28af290670469a7780ef2dd68&chksm=9bcf6c29acb8e53fc04719517d67234fbf657f61dc2b4bac125c9b970d98b8b8cf78a7c4573d&token=1203210899&lang=zh_CN#rd)
+
+- (EMNLP 2021) SimCSE: Simple  Contrastive Learning of Sentence Embeddings [[Video]](https://www.bilibili.com/video/BV1sF411L7GG) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486116&idx=1&sn=f4d35f98edde8dfc163c47e3d3d8f50d&chksm=9bcf6f28acb8e63edd2aeab8451745cac14205e237a64ede5c1416ff96054ea51190a525e202&token=396426454&lang=zh_CN#rd)
 
 - (EMNLP 2021) Do Transformer Modifications Transfer Across Implementations and Applications? [[Video Part 1]](https://www.bilibili.com/video/BV1RU4y127dk) [[Video Part 2]](https://www.bilibili.com/video/BV1WY4y1474E) [[PPT Part 1]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485791&idx=1&sn=e386bb9e2af444d68f852cb2cf332aa2&chksm=9bcf6cd3acb8e5c5f4c216830d4a66c11601f7624112ee052d49ed18cdf08fa6f044a937ff8a&token=1203210899&lang=zh_CN#rd) [[PPT Part 2]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485813&idx=1&sn=a2471e560e33bcd4c455bb4663824de3&chksm=9bcf6cf9acb8e5ef56a17bcacdd3e8347029cb3449ea7cd433bea452a77cb570868b18071f00&token=1203210899&lang=zh_CN#rd)
 

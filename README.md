@@ -32,6 +32,10 @@
 
 - (ACL 2020) Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation [[Video]](https://www.bilibili.com/video/BV1bU4y117mE) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485967&idx=1&sn=ff768b546ee0bf4544fdbff0401cfe47&chksm=9bcf6f83acb8e695e748a5ef00655df7c6fadc8b32b27f9bcd9bd423ce2503871d929090783d&token=1589472580&lang=zh_CN#rd)
 
+- (ACL 2022) A Model-Agnostic Data Manipulation Method for Persona-based Dialogue Generation [[Video]](https://www.bilibili.com/video/BV1JB4y1s7Lw) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486444&idx=1&sn=53aab414a95a9aeaa4aebcc7ab592d43&chksm=9bcf6e60acb8e7765b680c0a1f344d21cd418c0b2881b3b55b7c2ff438b759e16f88a9702c81&token=384057229&lang=zh_CN#rd)
+
+- (AAAI 2022) Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge  [[Video]](https://www.bilibili.com/video/BV1na411s7vj) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486447&idx=1&sn=d5de573bacd228fa2b47586cd007d3b0&chksm=9bcf6e63acb8e77592df5440958ef7a5fb3461a96d9e0f5f12021d0ae2cbf21f13b99cb8bda5&token=384057229&lang=zh_CN#rd)
+
 ## 文本检索
 
 - (EMNLP 2021) Simple Entity-Centric Questions Challenge Dense Retrievers [[Video]](https://www.bilibili.com/video/BV1Q34y1r7Au/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247483716&idx=1&sn=a75372366ba684bd1ab832e1e3af19be&chksm=9bcf64c8acb8eddeeec4687df591f1f0a69edc7e62d500f3833377f3049fef42cf6f4b62b12c&token=1540349124&lang=zh_CN#rd)
@@ -66,6 +70,16 @@
 
 - (ACL 2022) Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework [[Video]](https://www.bilibili.com/video/BV1Fr4y1x7kL) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486114&idx=1&sn=6c68691e078677e01458e6c3b09994e3&chksm=9bcf6f2eacb8e63806f74ac2d484f81b9139a9a141b09a4bab27f18c1ddedff192143f4ce985&token=396426454&lang=zh_CN#rd)
 
+- (ACL 2022) Multi-View Document Representation Learning for Open-Domain Dense Retrieval [[Video]](https://www.bilibili.com/video/BV11Z4y1i764) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486254&idx=1&sn=330edeca21bd2e5eb8a53a7d1f38f449&chksm=9bcf6ea2acb8e7b4d2240084f833c3a3139e4bb8a1c1af8457218ab18ef1ef7ed9dbce3df241&token=384057229&lang=zh_CN#rd)
+
+- (Arxiv) Training Language Models with Memory Augmentation [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486295&idx=1&sn=7246ea1260ceef7a5bf1c4e149c533ed&chksm=9bcf6edbacb8e7cd4ba7e0ba3cb1e06c4a9a81e034c61c46a5eea49f9d871144be3ce16f1667&token=384057229&lang=zh_CN#rd)
+
+- (SIGIR 2022) LoL: A Comparative Regularization Loss over Query Reformulation Losses for Pseudo-Relevance Feedback [[Video]](https://www.bilibili.com/video/BV15v4y137AJ) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486351&idx=1&sn=355715bda239736e33347604c895ba02&chksm=9bcf6e03acb8e7158d2ee3432394da7ab7f08d51cd511cb0c47073556e53ab529e9bd38398bc&token=384057229&lang=zh_CN#rd)
+
+- (Arxiv) VIRT: Improving Representation-based Models for Text Matchingthrough Virtual Interaction [[Video]](https://www.bilibili.com/video/BV1GL4y1A7Cs) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486843&idx=1&sn=ac6d16d55989bbb2641ee181d3bb2fa4&chksm=9bcf68f7acb8e1e1b43e959ed407c6e3526643cfb8b0955252d37109569484f8155f31df30d2&token=384057229&lang=zh_CN#rd)
+
+- (ACL 2022) Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents [[Video]](https://www.bilibili.com/video/BV13S4y1H7Ru) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486874&idx=1&sn=c58e77f838eafb0f581f2e6c9928aece&chksm=9bcf6816acb8e100fdf80b17e99903b98c45f0bc8dcadca029332930d9f73183aecb0072f0ea&token=384057229&lang=zh_CN#rd)
+
 ## 多模态检索
 
 - (SIGIR 2021) Dynamic Modality Interaction Modeling for Image-Text Retrieval [[Video]](https://www.bilibili.com/video/BV14Y41137aK/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484148&idx=1&sn=c6bf492a9571c3d30d595117518fa05a&chksm=9bcf6778acb8ee6ebbd87d2f4de46f31f16713d74317d9ef74766b97be18d3b73991f31578f9&token=1540349124&lang=zh_CN#rd)
@@ -77,6 +91,10 @@
 - (ACM MM 2021) CONQUER: Contextual Query-aware Ranking for Video Corpus Moment Retrieval [[Video]](https://www.bilibili.com/video/BV1vB4y117Fz) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485690&amp;idx=1&amp;sn=1dcafb93932d74624cfd2734a4806587&amp;chksm=9bcf6d76acb8e46030c53e699a021156df6b57c2a20275f2ce29ab180835dfd0401c492a45e6&token=385689359&lang=zh_CN#rd)
 
 - (ICML 2022) Characterizing and overcoming the greedy nature of learning in multi-modal deep neural networks [[Video]](https://www.bilibili.com/video/BV1oT411V7f3) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486223&idx=1&sn=3a3677957a18a1f48e7d9a7b9077130d&chksm=9bcf6e83acb8e795808a2180d80076fb5839c6050b5bb97bbe2a17c594f9a3f114d48ebaf8c2&token=396426454&lang=zh_CN#rd)
+
+- (ICCV 2021) Ask&Confirm: Active Detail Enriching for Cross-Modal Retrieval with Partial Query [[Video]](https://www.bilibili.com/video/BV1594y1R7jK) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486775&idx=1&sn=26c74d1d6d58ff76a7e3b52f47ce6e7f&chksm=9bcf68bbacb8e1adf05c3ef59d0979c4705e7acde330d49cd4040962bc98964eb07bac8ca923&token=384057229&lang=zh_CN#rd)
+
+- (SIGIR 2022) Modality-Balanced Embedding for Video Retrieval  [[Video]](https://www.bilibili.com/video/BV1av4y1T7CK) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486815&idx=1&sn=758ffc94731cffadb43c26e5fbf263ac&chksm=9bcf68d3acb8e1c57a2b4a0797415068285d24c55d8d536c51707398860599dcd3f0b4bc0caf&token=384057229&lang=zh_CN#rd)
 
 ## 因果推断
 
@@ -99,6 +117,12 @@
 - (ACL 2022) Controllable Natural Language Generation with Contrastive Preﬁxes [[Video]](https://www.bilibili.com/video/BV1VF411u7jV) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&amp;mid=2247485668&amp;idx=1&amp;sn=8ce11ac9a6c37f965aec57427a1e253c&amp;chksm=9bcf6d68acb8e47efcd2b201e3bbb9ee041dded02be4bb0ca8f721d3c72fb43e4f2aef27dbf0&token=385689359&lang=zh_CN#rd)
 
 - (Arxiv) Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation [[Video]](https://www.bilibili.com/video/BV1BL4y1K7yW) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486162&idx=1&sn=02fe64470fd1ba6bf040b0dc93859162&chksm=9bcf6f5eacb8e6481a6a2622760dd4d5c5670f71bc47f96d6504941d11f24cc24f5add32f387&token=396426454&lang=zh_CN#rd)
+
+- (AAAI 2022) Search and Learn: Improving Semantic Coverage for Data-to-Text Generation [[Video]](https://www.bilibili.com/video/BV1gg411X7cz) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486594&idx=1&sn=e60a8e74d28f2a1c34d9603eb848e86c&chksm=9bcf690eacb8e0184a1fe0f9a701a0fd402b6e2e95ce25d1ed084d66a049a73ac39f151acbdf&token=384057229&lang=zh_CN#rd)
+
+- (NAACL 2022) Learning to Transfer Prompts for Text Generation  [[Video]](https://www.bilibili.com/video/BV1jL4y1w7iw)  [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486678&idx=1&sn=0f9e9f359d431cabc736d70ca55f40e3&chksm=9bcf695aacb8e04c934c1fd008b1bf85dd2ee107a361a39c9de0340a44388dc2466c5f316975&token=384057229&lang=zh_CN#rd)
+
+- (Arxiv) Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation [[Video]](https://www.bilibili.com/video/BV1LY4y1n73H) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486728&idx=1&sn=1630cecbdaf0f86cd40fbe35ef0ad603&chksm=9bcf6884acb8e192169ece2ccc39ad7cc8e23bfe3fb28677ec7d0fa6083788f8cba96eacb564&token=384057229&lang=zh_CN#rd)
 
 ## 信息抽取
 
@@ -151,6 +175,11 @@
 
 - (EMNLP 2021) Do Transformer Modifications Transfer Across Implementations and Applications? [[Video Part 1]](https://www.bilibili.com/video/BV1RU4y127dk) [[Video Part 2]](https://www.bilibili.com/video/BV1WY4y1474E) [[PPT Part 1]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485791&idx=1&sn=e386bb9e2af444d68f852cb2cf332aa2&chksm=9bcf6cd3acb8e5c5f4c216830d4a66c11601f7624112ee052d49ed18cdf08fa6f044a937ff8a&token=1203210899&lang=zh_CN#rd) [[PPT Part 2]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485813&idx=1&sn=a2471e560e33bcd4c455bb4663824de3&chksm=9bcf6cf9acb8e5ef56a17bcacdd3e8347029cb3449ea7cd433bea452a77cb570868b18071f00&token=1203210899&lang=zh_CN#rd)
 
+- (ACL 2022) A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models [[Video]](https://www.bilibili.com/video/BV1LY4y137jF) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486497&idx=1&sn=6a64c7f49d3acb1c63710fe11ed3eedf&chksm=9bcf69adacb8e0bb3c4d0e333274e401f0e1d909246441f42341f593dc9bd0640f1cc752c354&token=384057229&lang=zh_CN#rd)
+
+- (NeurIPS 2021) R-Drop: Regularized Dropout for Neural Networks [[Video]](https://www.bilibili.com/video/BV1Zf4y1Z73T) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486554&idx=1&sn=ebb39757bce35866fb759ac519e5ccc1&chksm=9bcf69d6acb8e0c0b84e9b9f2a106a8b0cd216a678c14f1daf12b0e1f8f4b10b19ff592c0917&token=384057229&lang=zh_CN#rd)
+
+- (ICLR 2022) Language modeling via stochastic processes [[Video]](https://www.bilibili.com/video/BV1Fa411s7bY) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486637&idx=1&sn=36111995de0ba0c77c4db4a066c7f910&chksm=9bcf6921acb8e037b1c66ae07be65771b407994cce10d4fae2ca23f504bcdc412b8abfa598fb&token=384057229&lang=zh_CN#rd)
 
 ## 关于我们
 

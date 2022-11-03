@@ -80,6 +80,10 @@
 
 - (ACL 2022) Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents [[Video]](https://www.bilibili.com/video/BV13S4y1H7Ru) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486874&idx=1&sn=c58e77f838eafb0f581f2e6c9928aece&chksm=9bcf6816acb8e100fdf80b17e99903b98c45f0bc8dcadca029332930d9f73183aecb0072f0ea&token=384057229&lang=zh_CN#rd)
 
+- (ICLR 2022) P-ADAPTERS Robustly Extracting Factual Information from Language Models with Diverse Prompts [[Video]](https://www.bilibili.com/video/BV1hG4y1n74E) [[PPT]](https://mp.weixin.qq.com/s/yHwoO6PBbd5w716_P_lrlw)
+
+- (ACL 2022) Zero-Shot Dense Retrieval with Momentum Adversarial Domain Invariant Representations [[Video]](https://www.bilibili.com/video/BV1EP411N7rD) [[PPT]](https://mp.weixin.qq.com/s/lDrjdsUt9G71lzWzhwQbpA)
+
 ## 多模态检索
 
 - (SIGIR 2021) Dynamic Modality Interaction Modeling for Image-Text Retrieval [[Video]](https://www.bilibili.com/video/BV14Y41137aK/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484148&idx=1&sn=c6bf492a9571c3d30d595117518fa05a&chksm=9bcf6778acb8ee6ebbd87d2f4de46f31f16713d74317d9ef74766b97be18d3b73991f31578f9&token=1540349124&lang=zh_CN#rd)
@@ -95,6 +99,10 @@
 - (ICCV 2021) Ask&Confirm: Active Detail Enriching for Cross-Modal Retrieval with Partial Query [[Video]](https://www.bilibili.com/video/BV1594y1R7jK) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486775&idx=1&sn=26c74d1d6d58ff76a7e3b52f47ce6e7f&chksm=9bcf68bbacb8e1adf05c3ef59d0979c4705e7acde330d49cd4040962bc98964eb07bac8ca923&token=384057229&lang=zh_CN#rd)
 
 - (SIGIR 2022) Modality-Balanced Embedding for Video Retrieval  [[Video]](https://www.bilibili.com/video/BV1av4y1T7CK) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486815&idx=1&sn=758ffc94731cffadb43c26e5fbf263ac&chksm=9bcf68d3acb8e1c57a2b4a0797415068285d24c55d8d536c51707398860599dcd3f0b4bc0caf&token=384057229&lang=zh_CN#rd)
+
+- (NeurIPS 2021) Align before Fuse: Vision and Language Representation Learning with Momentum Distillation [[Video]](https://www.bilibili.com/video/BV1je4y1q7pm/) [[PPT]](https://mp.weixin.qq.com/s/cwgbgdP8BHMPJVTKKW9JjQ)
+
+- (NAACL 2022) MCSE: Multimodal Contrastive Learning of Sentence Embeddings [[Video]](https://www.bilibili.com/video/BV1dd4y1i7kk) [[PPT]](https://mp.weixin.qq.com/s/RzxZTmls0HtqykQaJdsmLQ)
 
 ## 因果推断
 
@@ -124,6 +132,12 @@
 
 - (Arxiv) Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation [[Video]](https://www.bilibili.com/video/BV1LY4y1n73H) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486728&idx=1&sn=1630cecbdaf0f86cd40fbe35ef0ad603&chksm=9bcf6884acb8e192169ece2ccc39ad7cc8e23bfe3fb28677ec7d0fa6083788f8cba96eacb564&token=384057229&lang=zh_CN#rd)
 
+- (NAACL 2022) Re2G: Retrieve, Rerank, Generate [[Video]](https://www.bilibili.com/video/BV1o24y197jy) [[PPT]](https://mp.weixin.qq.com/s/bes8x6L3jKt2-LDJA1x7VQ)
+
+- (NeurIPS 2022) Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning [[Video]](https://www.bilibili.com/video/BV148411W7NJ) [[PPT]](https://mp.weixin.qq.com/s/Jpv_FD-FObMiVaPQEC9FYw)
+
+- (NeurIPS 2022) Learning to Drop Out: An Adversarial Approach to Training Sequence VAEs [[Video]](https://www.bilibili.com/video/BV1AG41177yt) [[PPT]](https://mp.weixin.qq.com/s/wwQ359gH1hy5P7IURQIeyA)
+
 ## 信息抽取
 
 - (ACL 2020) FLAT: Chinese NER Using Flat-LAttice Transformer [[Video]](https://www.bilibili.com/video/BV1rr4y1B7pt/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484357&idx=1&sn=057e14f4c2236f3b87472e317eb86353&chksm=9bcf6649acb8ef5ff8a826def3b41496ed9273dca9d83121687c899f43dcbe7a4216f5a2c925&token=1540349124&lang=zh_CN#rd)
@@ -137,6 +151,10 @@
 - (NAACL 2021) A Frustratingly Easy Approach for Entity and Relation Extraction [[Video]](https://www.bilibili.com/video/BV1M5411R7wB) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247485993&idx=1&sn=5f4763359440c3f447ff2b401b9fb0df&chksm=9bcf6fa5acb8e6b3d85c32f706a18fd23b6a70506eedd37207f71c8fd1b83404c49db82fb9ff&token=1589472580&lang=zh_CN#rd)
 
 - (ACL 2022) Packed Levitated Marker for Entity and Relation Extraction [[Video]](https://www.bilibili.com/video/BV1Q3411A7pf) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486017&idx=1&sn=19457188c6b46ec2865017357383b22a&chksm=9bcf6fcdacb8e6dbd36fbb18f3e98b27056891b9bafd7c3c0f967e80fe3b4110865a80a71f5c&token=1589472580&lang=zh_CN#rd)
+
+- (ACL 2020) A Novel Cascade Binary Tagging Framework for Relational Triple Extraction [[Video]](https://www.bilibili.com/video/BV1jW4y1S7e3) [[PPT]](https://mp.weixin.qq.com/s/kLeReQPUDYVBSQ2IZr76Jg)
+
+- (COLING 2020) TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking [[Video]](https://www.bilibili.com/video/BV1cr4y1E74g) [[PPT]](https://mp.weixin.qq.com/s/EaWyIN538Zj0F-afSf_9Qw)
 
 ## 揣摩工作
 
@@ -180,6 +198,8 @@
 - (NeurIPS 2021) R-Drop: Regularized Dropout for Neural Networks [[Video]](https://www.bilibili.com/video/BV1Zf4y1Z73T) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486554&idx=1&sn=ebb39757bce35866fb759ac519e5ccc1&chksm=9bcf69d6acb8e0c0b84e9b9f2a106a8b0cd216a678c14f1daf12b0e1f8f4b10b19ff592c0917&token=384057229&lang=zh_CN#rd)
 
 - (ICLR 2022) Language modeling via stochastic processes [[Video]](https://www.bilibili.com/video/BV1Fa411s7bY) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486637&idx=1&sn=36111995de0ba0c77c4db4a066c7f910&chksm=9bcf6921acb8e037b1c66ae07be65771b407994cce10d4fae2ca23f504bcdc412b8abfa598fb&token=384057229&lang=zh_CN#rd)
+
+- (NeurIPS 2021) Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models [[Video]](https://www.bilibili.com/video/BV17e4y1i7Eo) [[PPT]](https://mp.weixin.qq.com/s/2tfRUpQMbLa_getep6IaOw)
 
 ## 关于我们
 

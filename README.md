@@ -138,6 +138,8 @@
 
 - (NeurIPS 2022) Learning to Drop Out: An Adversarial Approach to Training Sequence VAEs [[Video]](https://www.bilibili.com/video/BV1AG41177yt) [[PPT]](https://mp.weixin.qq.com/s/wwQ359gH1hy5P7IURQIeyA)
 
+- (NeurIPS 2022) Diffusion-LM Improves Controllable Text Generation [[Video]](https://www.bilibili.com/video/BV1Ce4y1e7L2) [[PPT]](https://mp.weixin.qq.com/s/rgpwrILyNxAITc5hGXVsJQ)
+
 ## 信息抽取
 
 - (ACL 2020) FLAT: Chinese NER Using Flat-LAttice Transformer [[Video]](https://www.bilibili.com/video/BV1rr4y1B7pt/) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247484357&idx=1&sn=057e14f4c2236f3b87472e317eb86353&chksm=9bcf6649acb8ef5ff8a826def3b41496ed9273dca9d83121687c899f43dcbe7a4216f5a2c925&token=1540349124&lang=zh_CN#rd)
@@ -200,6 +202,8 @@
 - (ICLR 2022) Language modeling via stochastic processes [[Video]](https://www.bilibili.com/video/BV1Fa411s7bY) [[PPT]](https://mp.weixin.qq.com/s?__biz=MzAxODk2OTgyNw==&mid=2247486637&idx=1&sn=36111995de0ba0c77c4db4a066c7f910&chksm=9bcf6921acb8e037b1c66ae07be65771b407994cce10d4fae2ca23f504bcdc412b8abfa598fb&token=384057229&lang=zh_CN#rd)
 
 - (NeurIPS 2021) Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models [[Video]](https://www.bilibili.com/video/BV17e4y1i7Eo) [[PPT]](https://mp.weixin.qq.com/s/2tfRUpQMbLa_getep6IaOw)
+
+- (Arxiv) Understanding Diffusion Models: A Unified Perspective [[Video Part1]](https://www.bilibili.com/video/BV1wP4y1S7cM) [[Video Part2]](https://www.bilibili.com/video/BV1184y1B7bq) [[Video Part3]](https://www.bilibili.com/video/BV1bP411A7y4) [[Video Part4]](https://www.bilibili.com/video/BV1iV4y1G7Ny) [[PPT Part1]](https://mp.weixin.qq.com/s/CLazUdl4telDoZZ0owvXoA) [[PPT Part2]](https://mp.weixin.qq.com/s/Bbx4tgK47CE93dB5l1vapw) [[PPT Part3]](https://mp.weixin.qq.com/s/8tFhjap9qVg80aVI_fGsaw) [[PPT Part2]](https://mp.weixin.qq.com/s/24dL9lWmJbdSyG6dBmdrzw) 
 
 ## 关于我们
 

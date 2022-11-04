@@ -203,7 +203,7 @@
 
 - (NeurIPS 2021) Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models [[Video]](https://www.bilibili.com/video/BV17e4y1i7Eo) [[PPT]](https://mp.weixin.qq.com/s/2tfRUpQMbLa_getep6IaOw)
 
-- (Arxiv) Understanding Diffusion Models: A Unified Perspective [[Video Part1]](https://www.bilibili.com/video/BV1wP4y1S7cM) [[Video Part2]](https://www.bilibili.com/video/BV1184y1B7bq) [[Video Part3]](https://www.bilibili.com/video/BV1bP411A7y4) [[Video Part4]](https://www.bilibili.com/video/BV1iV4y1G7Ny) [[PPT Part1]](https://mp.weixin.qq.com/s/CLazUdl4telDoZZ0owvXoA) [[PPT Part2]](https://mp.weixin.qq.com/s/Bbx4tgK47CE93dB5l1vapw) [[PPT Part3]](https://mp.weixin.qq.com/s/8tFhjap9qVg80aVI_fGsaw) [[PPT Part2]](https://mp.weixin.qq.com/s/24dL9lWmJbdSyG6dBmdrzw) 
+- (Arxiv) Understanding Diffusion Models: A Unified Perspective [[Video Part1]](https://www.bilibili.com/video/BV1wP4y1S7cM) [[Video Part2]](https://www.bilibili.com/video/BV1184y1B7bq) [[Video Part3]](https://www.bilibili.com/video/BV1bP411A7y4) [[Video Part4]](https://www.bilibili.com/video/BV1iV4y1G7Ny) [[PPT Part1]](https://mp.weixin.qq.com/s/CLazUdl4telDoZZ0owvXoA) [[PPT Part2]](https://mp.weixin.qq.com/s/Bbx4tgK47CE93dB5l1vapw) [[PPT Part3]](https://mp.weixin.qq.com/s/8tFhjap9qVg80aVI_fGsaw) [[PPT Part4]](https://mp.weixin.qq.com/s/24dL9lWmJbdSyG6dBmdrzw) 
 
 ## 关于我们
 
